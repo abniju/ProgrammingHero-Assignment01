@@ -16,7 +16,7 @@ body{
 .header-section{
     width: 100%;
     height: 850px;
-    background-image:url(images/banner/banner1.png);
+    background-image:url(images/banner/banner2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -67,4 +67,41 @@ body{
     position: absolute;
     top: 578px;
     right: 230px;
+}
+
+/* End of header section */
+
+
+/* Main section */
+
+
+/* My failure of previous year */
+
+.failure-section-title{
+    width: 288px;
+    height: 94px;
+    font-size: 40px;
+    line-height: 46px;
+    font-weight: 700;
+    color: #151414;
+}
+
+.failure-section-paragraph{
+    width: 416px;
+    height: 104px;
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #444343;
+}
+
+.failure-section-list{
+    color: #444343;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.list-item{
+    list-style-position: inside;
+    list-style-image: url();
 }
